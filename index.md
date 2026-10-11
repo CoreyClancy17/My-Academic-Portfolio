@@ -2,41 +2,24 @@
 ## Introduction
 ## Education
 ### PhD Program
-**University of Central Florida**
-
-- **Texts & Technology Ph.D.**, College of Arts and Humanities, Expected Spring '31
-
-  - [Link to Program Description](https://cah.ucf.edu/textstech/) 
-
+**Texts & Technology Ph.D.**, University of Central Florida, College of Arts and Humanities, Expected Spring '31
+- [Link to Program Description](https://cah.ucf.edu/textstech/) 
 ### Graduate Degree
-**University of Central Florida**
-
-- **Master of Fine Arts, Theatre**, College of Arts and Humanities, December 2025
-
-    - [Link to Program Description](https://www.ucf.edu/degree/theatre-mfa/themed-experience/) 
-
-    - [Thesis Title: Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
-
-        - Committee Supervisor: Dr. Carissa Baker
-
-
+**Master of Fine Arts, Theatre**, University of Central Florida, College of Arts and Humanities, December 2025
+- [Link to Program Description](https://www.ucf.edu/degree/theatre-mfa/themed-experience/) 
+- [Thesis Title: Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
+    - Committee Supervisor: Dr. Carissa Baker
 ### Undergraduate Degree
-
-**University of Central Florida, The Burnett Honors College**
-
-- **Bachelor of Science, Entertainment Management**, Rosen College of Hospitality Management, Summa Cum Laude, May 2021
-
+ **Bachelor of Science, Entertainment Management**, University of Central Florida, Rosen College of Hospitality Management, Burnett Honors College, Summa Cum Laude, May 2021
   - [Link to Program Description](https://www.ucf.edu/degree/entertainment-management-bs/) 
 
-- **Theatre Studies Minor**, College of Arts and Humanities, May 2021
+**Theatre Studies Minor**, College of Arts and Humanities, May 2021
 
-- **Certificate of Theme Park and Attraction Management**, Rosen College of Hospitality Management, May 2021
-
+**Certificate of Theme Park and Attraction Management**, Rosen College of Hospitality Management, May 2021
 ## Work Experience
 **Associate Project Controls Planner: Figure Animation & Audio Animatronics**, February 2026 - Present
 
 Walt Disney Imagineering – Orlando, FL 
-
 - Build and maintain detailed project  schedules, especially with a focus on Audio Animatronics, using tools like Primavera P6, NetPoint, and TouchPlan
 - Partner with a variety of different disciplines/divisions of work to formulate schedules for the design, production, installation, and integration of Show elements, especially in relation to animation activities and tasks
 - Creatively drive work in order to meet schedule milestones, facilitating Pull-Plans, leading meetings, maintaining key vendor and partner relationships, and tracking work on sie at vendor facilities and the construction site
@@ -86,7 +69,6 @@ Walt Disney World Resort– Orlando, FL
 **Honors Symposium Teaching Assistant (Team Leader)**, August 2018 – December 2019
 
 The UCF Burnett Honors College– Orlando, FL
-
 - Mentor a class of 16-18 freshman students and efficiently lead discussions relevant to material in the seminar lecture 
 - Coordinate team building events intended to build a strong and healthy community between the students 
 - Grade student essays and other assignments and oversee the service-learning component of the class
@@ -97,22 +79,33 @@ UCF First Year Experience – Orlando, FL
 - Advise and lead “First Time in College” and Transfer Student teams during about 50 orientation sessions and more than one hundred tours
 - Inform incoming students and guests about UCF resources, opportunities, and diversity, fully embodying the UCF Creed and values
 - Engage in conflict resolution with dissatisfied guests, students, and coworkers throughout the orientation process
-
+## Publications
+**Graduate Thesis Publication**
+- [Thesis Title: Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
+    - Committee Supervisor: Dr. Carissa Baker
 ## Achievements & Awards
 **UCF Order of Pegasus Award Recipient** – Class of 2021
 - Issued by President Alexander Cartwright
 - "The Order of Pegasus is the highest student honor, recognizing outstanding graduating seniors and graduate students who have demonstrated exemplary academic achievement, university involvement, leadership and community service.
 These are some of UCF’s most dedicated, passionate and highest-achieving students, and we are very proud of all they have accomplished. We hope you will join us in offering your congratulations and best wishes for a very rewarding and impactful future."
-
     - [2021 Order of Pegasus Booklet](https://order.sdes.ucf.edu/wp-content/uploads/sites/65/2021/04/2021_OOP_Booklet_web.pdf) 
-
-
     - ["23 Students to Receive UCF's Highest Honor"](https://www.ucf.edu/news/23-students-to-receive-ucfs-highest-honor/) 
 
-**Undergraduate Summa Cum Laude Honors Distinctiont** – Class of 2021
+**Undergraduate Summa Cum Laude Honors Distinction** – Class of 2021
 - Issued by President Alexander Cartwright
 
 **Salutatorian of Bishop England High School** - Class of 2017
 - Ranked 2nd in the Class of 2017
     - Bishop England Cumulative GPA: 5.5862
     - SCUGP Cumulative GPA: 5.0397
+## Public Recognitions
+**"Villains Land, Monstropolis, Avengers Campus & More | Pardon Our Pixie Dust: D23 Edition"***
+- Walt Disney Imagineering video featuring Corey Clancy discussing the new Sushi Chef, an Audio Animatronics Figure, coming to Monstropolis in Disney's Hollywood Studios
+- [Link to YouTube Video](https://youtu.be/_dNMWTBR0ac?si=WLTTDtMnLETRVq0q) 
+    - Released on 15-Aug-2026
+    - Corey Clancy's Feature: 1:57 - 2:52
+
+**"One Knight’s Journey to Walt Disney Imagineering"**
+- UCF Article about Corey Clancy's Path to Walt Disney Imagineering
+- [Link to Publication](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
+    - Written by Holly Robbins & Published on 29-Oct-2024
