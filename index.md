@@ -41,15 +41,22 @@ Long-term, Corey Clancy aspires to align his career goals with his research goal
 
 ​
 ## Education
+
+
+
 ### Ph.D. Program
 **Texts & Technology Ph.D.**, University of Central Florida, College of Arts and Humanities, Expected Spring '31
 - [Link to Program Description](https://cah.ucf.edu/textstech/) 
+
+
 
 ### Graduate Degree
 **Master of Fine Arts, Theatre**, University of Central Florida, College of Arts and Humanities, December 2025
 - [Link to Program Description](https://www.ucf.edu/degree/theatre-mfa/themed-experience/) 
 - [Thesis Title: Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
     - Committee Supervisor: Dr. Carissa Baker
+
+
 
 ### Undergraduate Degree
  **Bachelor of Science, Entertainment Management**, University of Central Florida, Rosen College of Hospitality Management, Burnett Honors College, Summa Cum Laude, May 2021
@@ -58,6 +65,9 @@ Long-term, Corey Clancy aspires to align his career goals with his research goal
 **Theatre Studies Minor**, College of Arts and Humanities, May 2021
 
 **Certificate of Theme Park and Attraction Management**, Rosen College of Hospitality Management, May 2021
+
+
+
 ## Work Experience
 **Associate Project Controls Planner: Figure Animation & Audio Animatronics**, February 2026 - Present
 
@@ -122,10 +132,14 @@ UCF First Year Experience – Orlando, FL
 - Inform incoming students and guests about UCF resources, opportunities, and diversity, fully embodying the UCF Creed and values
 - Engage in conflict resolution with dissatisfied guests, students, and coworkers throughout the orientation process
 
+
+
 ## Publications
 **Graduate Thesis Publication**
 - [Thesis Title: Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
     - Committee Supervisor: Dr. Carissa Baker
+
+
 
 ## Achievements & Awards
 **UCF Order of Pegasus Award Recipient** – Class of 2021
@@ -142,6 +156,8 @@ These are some of UCF’s most dedicated, passionate and highest-achieving stude
 - Ranked 2nd in the Class of 2017
     - Bishop England Cumulative GPA: 5.5862
     - SCUGP Cumulative GPA: 5.0397
+
+
 
 ## Public Recognitions
 **"Villains Land, Monstropolis, Avengers Campus & More | Pardon Our Pixie Dust: D23 Edition"**
