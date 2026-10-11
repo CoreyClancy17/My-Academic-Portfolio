@@ -26,7 +26,7 @@
     - **Certificate of Theme Park and Attraction Management**, Rosen College of Hospitality Management, May 2021
 
 ## Work Experience
-**Associate Project Controls Planner: Figure Animation & Audio Animatronicsr**, February 2026 - present
+**Associate Project Controls Planner: Figure Animation & Audio Animatronics**, February 2026 - present
 
 Walt Disney Imagineering – Orlando, FL 
 
