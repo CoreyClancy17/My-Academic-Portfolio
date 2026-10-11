@@ -27,7 +27,7 @@ Long-term, Corey Clancy aspires to align his career goals with his research goal
 - Marginalized Communities
 - Psychological Trauma
 
-### Publications and/or Conferences
+### Publications
 
 1. Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory, UCF STARS, 2025
 
