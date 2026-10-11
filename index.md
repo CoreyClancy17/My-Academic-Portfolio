@@ -26,7 +26,7 @@
     - **Certificate of Theme Park and Attraction Management**, Rosen College of Hospitality Management, May 2021
 
 ## Work Experience
-**Associate Project Controls Planner: Figure Animation & Audio Animatronics**, February 2026 - present
+**Associate Project Controls Planner: Figure Animation & Audio Animatronics**, February 2026 - Present
 
 Walt Disney Imagineering – Orlando, FL 
 
@@ -93,3 +93,10 @@ UCF First Year Experience – Orlando, FL
 
 ## Achievements & Awards
 UCF Order of Pegasus Award Recipient – Class of 2021
+- "The Order of Pegasus is the highest student honor, recognizing outstanding graduating seniors and graduate students who have demonstrated exemplary academic achievement, university involvement, leadership and community service.
+These are some of UCF’s most dedicated, passionate and highest-achieving students, and we are very proud of all they have accomplished. We hope you will join us in offering your congratulations and best wishes for a very rewarding and impactful future."
+
+    - [2021 Order of Pegasus Booklet](https://order.sdes.ucf.edu/wp-content/uploads/sites/65/2021/04/2021_OOP_Booklet_web.pdf) 
+
+
+    - ["23 Students to Receive UCF's Highest Honor"](https://www.ucf.edu/news/23-students-to-receive-ucfs-highest-honor/) 
