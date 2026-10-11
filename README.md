@@ -1,2 +1,2 @@
-# my-cv
+# My-Academic-Portfolio
 
