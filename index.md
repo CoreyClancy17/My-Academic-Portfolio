@@ -1,14 +1,7 @@
----
-layout: default
-title: Corey Clancy - Academic Portfolio
----
 
-![Featured Image](/Assets/4DAB5FAC-98AD-4249-8B1F-D0B75FFE5802.jpg)
+# Corey Clancy CV
+## Introduction
 
-# Corey Clancy
-## Student - Texts & Technology, Ph.D.
-
-### Introduction & About Me
 Corey Clancy is currently a Walt Disney Imagineer who is studying to obtain his PhD in Texts & Technology at the University of Central Florida. He currently has a Master of Fine Arts Degree in Theatre, with a focus on Themed Experiences, that he obtained from the University of Central Florida in 2025. 
 
 Furthermore, Corey Clancy also has a Bachelor of Science Degree in Entertainment Management that he obtained from UCF in 2021. Along with this degree, Corey Clancy graduated with a Theatre Minor and Theme Park and Attraction Management Certificate from UCF in 2021. 
@@ -20,25 +13,6 @@ In line with the focus of his Graduate Thesis, Corey Clancy desires to research 
 In terms of career aspirations, Corey Clancy hopes to continue his growth at Walt Disney Imagineering. He has already spent a significant amount of time working as a Project Coordinator on the attraction "Tiana's Bayou Adventure" in both Disney's Magic Kingdom in Florida at Walt Disney World Resort and Disneyland in California at the Disneyland Resort. He also spent about a year and a half working as a Project Coordintor on "Monstropolis," a new land coming to Disney's Hollywood Studios soon. Since being a Project Coordinator, Corey has most recently worked as a Project Controls Animation Planner, working on the design, production, and installation plans and schedules for the Audio Animatronics Figures in the land. 
 
 Long-term, Corey Clancy aspires to align his career goals with his research goals, aiming to become an Assistant Producer for the Creative Development & Inclusive Strategies group at Walt Disney Imagineering while publishing and teaching work focused on the transformative powers of theme parks on all people, including those who are least represented.
-
-### Research Interests
-- Themed Experiences & Theme Parks as Text
-- Marginalized Communities
-- Psychological Trauma
-
-### Publications and/or Conferences
-
-1. Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory, UCF STARS, 2025
-
-### Contact
-
-- Email: coreydevonclancy@gmail.com
-
-### Follow Me
-
-- [LinkedIn](https://www.linkedin.com/in/corey-clancy-7b800916a)
-- [GitHub](https://coreyclancy17.github.io/my-cv/)
-
 ​
 ## Education
 ### Ph.D. Program
@@ -121,6 +95,11 @@ UCF First Year Experience – Orlando, FL
 - Advise and lead “First Time in College” and Transfer Student teams during about 50 orientation sessions and more than one hundred tours
 - Inform incoming students and guests about UCF resources, opportunities, and diversity, fully embodying the UCF Creed and values
 - Engage in conflict resolution with dissatisfied guests, students, and coworkers throughout the orientation process
+
+## Publications
+**Graduate Thesis Publication**
+- [Thesis Title: Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
+    - Committee Supervisor: Dr. Carissa Baker
 
 ## Achievements & Awards
 **UCF Order of Pegasus Award Recipient** – Class of 2021
