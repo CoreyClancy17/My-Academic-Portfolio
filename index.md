@@ -76,7 +76,7 @@ The UCF Burnett Honors College– Orlando, FL
 - Coordinate team building events intended to build a strong and healthy community between the students 
 - Grade student essays and other assignments and oversee the service-learning component of the class
 
-**Orientation Team**, November 2017 – January 2019
+**Orientation Team Member**, November 2017 – January 2019
 
 UCF First Year Experience – Orlando, FL
 - Advise and lead “First Time in College” and Transfer Student teams during about 50 orientation sessions and more than one hundred tours
