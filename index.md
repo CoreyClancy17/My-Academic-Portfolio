@@ -117,7 +117,7 @@ These are some of UCF’s most dedicated, passionate and highest-achieving stude
     - SCUGP Cumulative GPA: 5.0397
 
 ## Public Recognitions
-**"Villains Land, Monstropolis, Avengers Campus & More | Pardon Our Pixie Dust: D23 Edition"***
+**"Villains Land, Monstropolis, Avengers Campus & More | Pardon Our Pixie Dust: D23 Edition"**
 - Walt Disney Imagineering video featuring Corey Clancy discussing the new Sushi Chef, an Audio Animatronics Figure, coming to Monstropolis in Disney's Hollywood Studios
 - [Link to YouTube Video](https://youtu.be/_dNMWTBR0ac?si=WLTTDtMnLETRVq0q) 
     - Released on 15-Aug-2026
