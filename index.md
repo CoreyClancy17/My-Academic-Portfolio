@@ -1,5 +1,18 @@
 # Corey Clancy CV
 ## Introduction
+
+Corey Clancy is currently a Walt Disney Imagineer who is studying to obtain his PhD in Texts & Technology at the University of Central Florida. He currently has a Master of Fine Arts Degree in Theatre, with a focus on Themed Experiences, that he obtained from the University of Central Florida in 2025. 
+
+Furthermore, Corey Clancy also has a Bachelor of Science Degree in Entertainment Management that he obtained from UCF in 2021. Along with this degree, Corey Clancy graduated with a Theatre Minor and Theme Park and Attraction Management Certificate from UCF in 2021. 
+
+With a passion for the representation of marginalized communities in theme parks, Corey Clancy publihsed his Graduate Thesis in 2021 that is titled  "Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory." This research analyzed the existence of Drag Performers in historical and contemporary Theme Parks  and evaluated the impacts that the specific art form could have and has had amongst both employees and guests over time.
+
+In line with the focus of his Graduate Thesis, Corey Clancy desires to research more about how theme parks can amplify the voices and be representative of all people, including marginalized minorities. He hopes to address  and research the following question: "How Are Theme Parks a Text that Heals Trauma in Marginalized Communities?"
+
+In terms of career aspirations, Corey Clancy hopes to continue his growth at Walt Disney Imagineering. He has already spent a significant amount of time working as a Project Coordinator on the attraction "Tiana's Bayou Adventure" in both Disney's Magic Kingdom in Florida at Walt Disney World Resort and Disneyland in California at the Disneyland Resort. He also spent about a year and a half working as a Project Coordintor on "Monstropolis," a new land coming to Disney's Hollywood Studios soon. Since being a Project Coordinator, Corey has most recently worked as a Project Controls Animation Planner, working on the design, production, and installation plans and schedules for the Audio Animatronics Figures in the land. 
+
+Long-term, Corey Clancy aspires to align his career goals with his research goals, aiming to become an Assistant Producer for the Creative Development & Inclusive Strategies group at Walt Disney Imagineering while publishing and teaching work focused on the transformative powers of theme parks on all people, including those who are least represented.
+​
 ## Education
 ### PhD Program
 **Texts & Technology Ph.D.**, University of Central Florida, College of Arts and Humanities, Expected Spring '31
@@ -102,7 +115,7 @@ These are some of UCF’s most dedicated, passionate and highest-achieving stude
 - Ranked 2nd in the Class of 2017
     - Bishop England Cumulative GPA: 5.5862
     - SCUGP Cumulative GPA: 5.0397
-    
+
 ## Public Recognitions
 **"Villains Land, Monstropolis, Avengers Campus & More | Pardon Our Pixie Dust: D23 Edition"***
 - Walt Disney Imagineering video featuring Corey Clancy discussing the new Sushi Chef, an Audio Animatronics Figure, coming to Monstropolis in Disney's Hollywood Studios
