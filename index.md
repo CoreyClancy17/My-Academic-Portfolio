@@ -14,7 +14,7 @@ In terms of career aspirations, Corey Clancy hopes to continue his growth at Wal
 Long-term, Corey Clancy aspires to align his career goals with his research goals, aiming to become an Assistant Producer for the Creative Development & Inclusive Strategies group at Walt Disney Imagineering while publishing and teaching work focused on the transformative powers of theme parks on all people, including those who are least represented.
 ​
 ## Education
-### PhD Program
+### Ph.D. Program
 **Texts & Technology Ph.D.**, University of Central Florida, College of Arts and Humanities, Expected Spring '31
 - [Link to Program Description](https://cah.ucf.edu/textstech/) 
 
