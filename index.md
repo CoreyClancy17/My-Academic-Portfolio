@@ -26,7 +26,15 @@
     - **Certificate of Theme Park and Attraction Management**, Rosen College of Hospitality Management, May 2021
 
 ## Work Experience
-**Project Coordinator**, August 2022 - present
+**Associate Project Controls Planner: Figure Animation & Audio Animatronicsr**, February 2026 - present
+
+Walt Disney Imagineering – Orlando, FL 
+
+- Build and maintain detailed project  schedules, especially with a focus on Audio Animatronics, using tools like Primavera P6, NetPoint, and TouchPlan
+- Partner with a variety of different disciplines/divisions of work to formulate schedules for the design, production, installation, and integration of Show elements, especially in relation to animation activities and tasks
+- Creatively drive work in order to meet schedule milestones, facilitating Pull-Plans, leading meetings, maintaining key vendor and partner relationships, and tracking work on sie at vendor facilities and the construction site
+
+**Project Coordinator**, August 2022 - January 2026
 
 Walt Disney Imagineering – Orlando, FL 
 - Serve as a conduit between disciplines throughout the design & construction of themed entertainment offerings within the Walt Disney theme parks
