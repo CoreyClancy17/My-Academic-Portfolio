@@ -125,5 +125,5 @@ These are some of UCF’s most dedicated, passionate and highest-achieving stude
 
 **"One Knight’s Journey to Walt Disney Imagineering"**
 - UCF Article about Corey Clancy's Path to Walt Disney Imagineering
-- [Link to Publication](https://www.ucf.edu/news/one-knights-journey-to-walt-disney-imagineering/) 
+- [Link to Article](https://www.ucf.edu/news/one-knights-journey-to-walt-disney-imagineering/) 
     - Written by Holly Robbins & Published on 29-Oct-2024
