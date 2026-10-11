@@ -6,14 +6,19 @@
 
 - **Texts & Technology Ph.D.**, College of Arts and Humanities, Expected Spring '31
 
+  - [Link to Program Description](https://cah.ucf.edu/textstech/) 
+
 ### Graduate Degree
 **University of Central Florida**
 
 - **Master of Fine Arts, Theatre**, College of Arts and Humanities, December 2025
 
-    - [Thesis Title: Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory](hhttps://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
+    - [Link to Program Description](https://www.ucf.edu/degree/theatre-mfa/themed-experience/) 
+
+    - [Thesis Title: Drag in Theme Parks: An Application of Queer Theory and Intergroup Contact Theory](https://stars.library.ucf.edu/cgi/viewcontent.cgi?article=1530&context=etd2024) 
 
         - Committee Supervisor: Dr. Carissa Baker
+
 
 ### Undergraduate Degree
 
@@ -21,9 +26,11 @@
 
 - **Bachelor of Science, Entertainment Management**, Rosen College of Hospitality Management, Summa Cum Laude, May 2021
 
-    - **Theatre Studies Minor**, College of Arts and Humanities, May 2021
+  - [Link to Program Description](https://www.ucf.edu/degree/entertainment-management-bs/) 
 
-    - **Certificate of Theme Park and Attraction Management**, Rosen College of Hospitality Management, May 2021
+- **Theatre Studies Minor**, College of Arts and Humanities, May 2021
+
+- **Certificate of Theme Park and Attraction Management**, Rosen College of Hospitality Management, May 2021
 
 ## Work Experience
 **Associate Project Controls Planner: Figure Animation & Audio Animatronics**, February 2026 - Present
@@ -92,7 +99,8 @@ UCF First Year Experience – Orlando, FL
 - Engage in conflict resolution with dissatisfied guests, students, and coworkers throughout the orientation process
 
 ## Achievements & Awards
-UCF Order of Pegasus Award Recipient – Class of 2021
+**UCF Order of Pegasus Award Recipient** – Class of 2021
+- Issued by President Alexander Cartwright
 - "The Order of Pegasus is the highest student honor, recognizing outstanding graduating seniors and graduate students who have demonstrated exemplary academic achievement, university involvement, leadership and community service.
 These are some of UCF’s most dedicated, passionate and highest-achieving students, and we are very proud of all they have accomplished. We hope you will join us in offering your congratulations and best wishes for a very rewarding and impactful future."
 
@@ -100,3 +108,11 @@ These are some of UCF’s most dedicated, passionate and highest-achieving stude
 
 
     - ["23 Students to Receive UCF's Highest Honor"](https://www.ucf.edu/news/23-students-to-receive-ucfs-highest-honor/) 
+
+**Undergraduate Summa Cum Laude Honors Distinctiont** – Class of 2021
+- Issued by President Alexander Cartwright
+
+**Salutatorian of Bishop England High School** - Class of 2017
+- Ranked 2nd in the Class of 2017
+    - Bishop England Cumulative GPA: 5.5862
+    - SCUGP Cumulative GPA: 5.0397
