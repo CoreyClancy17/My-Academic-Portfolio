@@ -1,7 +1,6 @@
-theme: minima
+
 ---
-layout: default
-title: Corey Clancy - Academic Portfolio
+Corey Clancy - Academic Portfolio
 ---
 
 ![Featured Image](/Assets/4DAB5FAC-98AD-4249-8B1F-D0B75FFE5802.jpg)
