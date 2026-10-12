@@ -73,10 +73,3 @@ title: Projects
 [Download PDF](https://github.com/CoreyClancy17/My-Academic-Portfolio/blob/d59beba864bbc1b7357a723c2e73c35c448cd2a8/Assets/Immersive%20Theater%20and%20an%20Application%20to%20Theme%20Parks.pdf)
 
 - As theme parks progress into the future, they are developing attractions and experiences that engage the guest more than ever before! It can be argued that theme parks are taking hints and inspiration from the world of theatre, specifically, immersive theatre. In an article titled, “You’re in the Parade! Disney as Immersive Theatre and the Tourist as Actor,” it is said that “‘the multidimensional medium’ of immersive theatre ‘blur[s] spaces and roles,’” (Kokai & Robinson, 2019), allowing both audience members and actors to have a say in how a story unfolds. This same methodology can be applied to theme parks, especially the Walt Disney theme parks, as guests are expected just as much as Cast Members to play along in the themed environment around them, set to immerse them in whatever story they are located. In order to understand immersive theatre and theme parks, this paper will provide a clear definition of immersive theatre, an application of immersive theatre to theme parks, and examples of immersive theatre taking place in themed environments and theme parks.
-
-
-<aside id="sidebar">
-
-            <a href="projects" class="button">Projects
-            </a>
-
