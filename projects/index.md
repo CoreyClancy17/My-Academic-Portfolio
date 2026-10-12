@@ -27,7 +27,7 @@ title: Projects
 
 ## The Healing Treehouse
 
-[Download PDF] (https://github.com/CoreyClancy17/My-Academic-Portfolio/blob/d59beba864bbc1b7357a723c2e73c35c448cd2a8/Assets/The%20Healing%20Treehouse.pdf)
+[Download PDF](https://github.com/CoreyClancy17/My-Academic-Portfolio/blob/d59beba864bbc1b7357a723c2e73c35c448cd2a8/Assets/The%20Healing%20Treehouse.pdf)
 
 - The Healing Treehouse: A Center for Abused Children is a fantastical treehouse escape for children coping with the trauma of child abuse to provide them with the safety, security, and stability they need to heal and grow
 - Project Role: Sole Creator
