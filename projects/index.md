@@ -13,6 +13,9 @@ title: Projects
 - Project Roles: Show Writer
 
 ## Cloud Town
+
+[Download PDF](https://github.com/CoreyClancy17/My-Academic-Portfolio/blob/27cf6ca9dfc548340773793b85a09ed11aea7822/Assets/Cloud%20Town.pdf)
+
 - Come visit Cloud Town, where the magic of relaxation, recovery, and accessibility come together to create a haven for all. Embrace the enchantment, unwind in serenity, and rediscover the joy of inclusive experiences in a theme park land like no other. Cloud Town is an inclusive, accessible, inspirational theme park land focused on relaxation and recovery.
 - Project Roles: Show Producer
 - Deliverables: Scope Document, Deliverables List, Production Schedule, Timing Sheet, One Sheet, Sensory Guide, Merchandise, Mockup Write-Up,  SWOT Analysis, Market Research Document, and More
