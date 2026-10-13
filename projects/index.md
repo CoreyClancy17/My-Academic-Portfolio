@@ -18,10 +18,16 @@ title: Projects
 - Deliverables: Scope Document, Deliverables List, Production Schedule, Timing Sheet, One Sheet, Sensory Guide, Merchandise, Mockup Write-Up,  SWOT Analysis, Market Research Document, and More
 
 ## The HERstory of Drag
+
+[Download PDF](https://github.com/CoreyClancy17/My-Academic-Portfolio/blob/45c37ad68f659fa89e0cd4b13a19772e01b09f80/Assets/The%20HERSTORY%20of%20Drag%20Queens.pdf)
+
 - This project explores a new fifteen-minute walkthrough museum exhibit titled “The HERstory of Drag Queens in the United States” and proposes it to be added  to the Flamingo, Las Vegas where the current show “RuPaul’s Drag Race Live!” is being performed.
 - Project Role: Sole Creator
 
 ## St. Noah's Cathedral on the Water
+
+[Download PDF](https://github.com/CoreyClancy17/My-Academic-Portfolio/blob/c3f115948cb9e03fdcdae8f094c7a1fda7095c26/Assets/St.%20Noah's%20Cathedral%20on%20the%20Water-compressed.pdf)
+
 - St. Noah's Cathedral is a Catholic Church themed environment based on the story of Noah's ark. Travel into this space and experience religious journey like no other.
 - Project Role: Sole Creator
 
@@ -48,7 +54,7 @@ title: Projects
 
 ## IGBA's Shooting for the Stars Challenge
 
-[Download PDF](https://github.com/CoreyClancy17/My-Academic-Portfolio/blob/d59beba864bbc1b7357a723c2e73c35c448cd2a8/Assets/Fine%20Line%20Music%20Video%20Script.pdf)
+[Download PDF](https://github.com/CoreyClancy17/My-Academic-Portfolio/blob/48d70bbcbd5f44a28f7835fb0a2595af5d1f1791/Assets/Shooting%20for%20the%20Stars.pdf)
 
 - "IGBA'S Shooting for the Stars Challenge" proposes that the teams of the Intergalactic Basketball Association have developed an intergalactic tour to recruit human talent to play for Earth’s new team, the Earth Citizens. This challenge invites participants to try out for the Earth Citizens team!
 - Project Roles: Producer, Researcher, Writer, and Project Coordinator

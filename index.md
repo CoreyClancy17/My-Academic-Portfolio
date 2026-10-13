@@ -37,4 +37,4 @@ Long-term, Corey Clancy aspires to align his career goals with his research goal
 ### Follow Me
 
 - [LinkedIn](https://www.linkedin.com/in/corey-clancy-7b800916a)
-- [GitHub](https://coreyclancy17.github.io/my-cv/)
+- [GitHub](https://coreyclancy17.github.io/My-Academic-Portfolio/)
