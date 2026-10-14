@@ -123,13 +123,13 @@ These are some of UCF’s most dedicated, passionate and highest-achieving stude
 
 
 # Public Recognitions
-**"Villains Land, Monstropolis, Avengers Campus & More | Pardon Our Pixie Dust: D23 Edition"**
+## "Villains Land, Monstropolis, Avengers Campus & More | Pardon Our Pixie Dust: D23 Edition"**
 - Walt Disney Imagineering video featuring Corey Clancy discussing the new Sushi Chef, an Audio Animatronics Figure, coming to Monstropolis in Disney's Hollywood Studios
 - [Link to YouTube Video](https://youtu.be/_dNMWTBR0ac?si=WLTTDtMnLETRVq0q) 
     - Released on 15-Aug-2026
     - Corey Clancy's Feature: 1:57 - 2:52
 
-**"One Knight’s Journey to Walt Disney Imagineering"**
+## "One Knight’s Journey to Walt Disney Imagineering"**
 - UCF Article about Corey Clancy's Path to Walt Disney Imagineering
 - [Link to Article](https://www.ucf.edu/news/one-knights-journey-to-walt-disney-imagineering/) 
     - Written by Holly Robbins & Published on 29-Oct-2024
