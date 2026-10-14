@@ -201,7 +201,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #ea3865;
+  color: transparent;
   content: "/";
 }
 
@@ -217,7 +217,7 @@ form {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "//";
-  color: #ea3865;
+  color: transparent;
 }
 
 #main-content h3 {
@@ -234,7 +234,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #cfcfcfed;
+  color: transparent;
 }
 
 #main-content h4 {
@@ -250,7 +250,7 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
-  color: #ea3865;
+  color: transparent;
 }
 
 #main-content h5 {
@@ -264,7 +264,7 @@ h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "/////";
-  color: #ea3865;
+  color: transparent;
 }
 
 #main-content h6 {
@@ -278,7 +278,7 @@ h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "//////";
-  color: #ea3865;
+  color: transparent;
 }
 
 p {
